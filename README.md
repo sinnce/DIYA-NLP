@@ -24,4 +24,4 @@ Follow the structure of [google research](https://github.com/google-research/goo
 
 | Paper                                                                                                           | Code               | ppt |
 | --------------------------------------------------------------------------------------------------------------- | ------------------ | --- |
-| [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) | :white_check_mark: |     |
+| [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) | :white_check_mark: |  [flashattention.pdf](https://github.com/sinnce/DIYA-NLP/files/12576383/flashattention.pdf) |
